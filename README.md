@@ -12,3 +12,4 @@ Reference:
 * [Sphero](http://www.gosphero.com/)
 * [ArdDrone](http://ardrone2.parrot.com/)
 
+Presenation is in both keynote and PDF version.
