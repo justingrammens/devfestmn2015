@@ -8,8 +8,7 @@ Reference:
 
 * [Internet of Things](http://en.wikipedia.org/wiki/Internet_of_Things)
 * [Go Programming Language](http://golang.org)
-* [Arduino](http://arduino.mn)
+* [Arduino](http://arduino.cc)
 * [Sphero](http://www.gosphero.com/)
 * [ArdDrone](http://ardrone2.parrot.com/)
-
 
